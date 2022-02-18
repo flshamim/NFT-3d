@@ -1,0 +1,18 @@
+.bg-img{
+    background: url(33.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Akaya Telivigala', cursive;
+  }
+  @media screen and (max-width: 668px) {
+    .bg-img {
+        background: url(33.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        font-family: 'Akaya Telivigala', cursive;
+    }
+  }
+.header-main{
+    font-size: 40px;
+    margin-top: 100px;
+}
